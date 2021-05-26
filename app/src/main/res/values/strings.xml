@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="moon">moon</string>
+    <string name="aliens">aliens</string>
+    <string name="rocket">rocket</string>
+    <string name="satellite">satellite</string>
+    <string name="planet">planet</string>
+    <string name="ufo">ufo</string>
+    <string name="astronaut">astronaut</string>
+
+
+</resources>
